@@ -6,3 +6,6 @@
 
 ### log
 ```docker logs -f ds1-apache```
+
+### log directory
+/var/log/apache2/
